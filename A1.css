@@ -1,0 +1,46 @@
+.a{
+    height: 200px;
+    width: 100%;
+    background-color: chartreuse;
+    
+}
+.b{
+    height: 500px;
+    width: 100%;
+    background-color:cyan;
+    position:fixed;
+
+}
+.c{
+    text-align:center;
+    padding: 70px;
+    font-size: 70px;
+}
+.d{
+    margin-top: 10px;
+}
+.s1{
+   
+    height: 50px;
+    width: 30%;
+    border-radius: 20px;
+    font-size: medium;
+}
+:placeholder-shown
+{
+    font-size: 20px;
+    text-align: center;
+}
+#bc{
+    height: 100px;
+}
+.abc{
+    background-color: darkkhaki;
+    height: 50px;
+    width:30%;
+    border-radius: 20px;
+    border: 0px 4px 2px red;
+    font-size: medium;
+    margin-top: 10px;
+
+}
